@@ -1,0 +1,7 @@
+jdbc.driver: mysql
+db:
+  address: localhost
+  name: digitalInnovation
+  user:
+    login: root
+    password: 1234
