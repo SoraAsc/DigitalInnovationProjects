@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style/main.css">
+    
+    <!--Responsividade-->
+    <link rel="stylesheet" href="./style/responsive.css">
+    
+    <!--owl css-->
+    <link rel="stylesheet" href="./style/owl/owl.carousel.min.css">
+    <link rel="stylesheet" href="./style/owl/owl.theme.default.min.css">
+    <title>SmashFlix</title>
+</head>
+<body>
+    <header>
+        <div class="container">
+             <a href="#"><img src="./assets/img/logov1small.png" alt="Logo do site SmashoFlix" class="logo"> </a>
+            <nav>
+                <a href="#">Inicio</a>
+                <a href="#">Trailers</a>
+                <a href="#">Tutorial</a>
+                <a href="#">Personagens</a>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="personagem-destaque">
+            <div class="container">
+                <h3 class="titulo">Sora</h3>
+                <p class="descricao">Personagem fictício e o protagonista da série de jogos eletrônicos Kingdom Hearts.</p>
+                <div class="btns">
+                    <button role="button" class="btn">
+                        <i class="fa-solid fa-play"></i>
+                        ASSISTIR O TRAILER
+                    </button>
+                    <button role="button" class="btn">
+                        <i class="fas fa-info-circle"></i>
+                        MAIS INFORMAÇÕES
+                    </button>
+                </div>            
+            </div>
+        </div>
+    </main>
+
+    <div class="carrosel-personagens">
+        <div class="owl-carousel owl-theme">
+            <div class="item">
+                <img class="box-personagem" src="./assets/img/soraNew.jpg" alt="Sora">
+            </div>
+            <div class="item">
+                <img class="box-personagem" src="./assets/img/cloud.jpg" alt="Cloud">
+            </div>
+            <div class="item">
+                <img class="box-personagem" src="./assets/img/sephirot.jpg" alt="Sephirot">
+            </div>
+        </div>
+    </div>
+
+
+    <script src="https://kit.fontawesome.com/db7f120775.js" crossorigin="anonymous"></script>
+
+    <script src="./js/owl/jquery.min.js"></script>
+    <script src="./js/owl/owl.carousel.min.js"></script>
+    <script src="js/owl/setup.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

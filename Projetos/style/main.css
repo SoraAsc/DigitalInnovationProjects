@@ -1,0 +1,122 @@
+/* Variáveis e Reset */
+
+:root{
+    --vermelho: #E50914;
+    --preto: #141414;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--preto);
+    font-family:'Arial', Times, serif;
+    color: whitesmoke;
+}
+
+/* Navbar */
+header .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 10px 0 0px;
+    padding: 15px;
+}
+
+header .logo{
+    margin-left: 10px;    
+    width: 271px;
+    height: 32px;
+}
+
+header .container nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header .container nav a:hover{
+    color: #FFF;
+}
+
+/* Personagem em destaque */
+.personagem-destaque{
+    font-size: 16px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)100%), url('../assets/img/soraNew.jpg');
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center top;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.personagem-destaque .container{
+    margin-left: 40px;
+}
+
+.personagem-destaque .descricao{
+    margin: 10px 0px 40px 0px;
+    text-align: center;
+    width: 90%;
+    --margin-top: 10px;
+    --margin-bottom: 40px;
+}
+
+.personagem-destaque .titulo{
+    margin-top: 15%;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    text-align: center;
+}
+
+/* GERAL */
+
+.btn{
+    background-color: rgba(0, 0, 0, .5);
+    border: none;
+    color: whitesmoke;
+    padding: 15px 30px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    transition: 0.5s ease all;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.btn i{
+    margin-right: 9px;
+}
+
+/*Carrosel*/
+.carrosel-personagens .item{
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.carrosel-personagens .box-personagem{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.carrosel-personagens .item .box-personagem{
+    transition: transform 0.5s ease;   
+}
+
+.carrosel-personagens .item .box-personagem:hover{
+    transform: scale(1.1);
+}
+
