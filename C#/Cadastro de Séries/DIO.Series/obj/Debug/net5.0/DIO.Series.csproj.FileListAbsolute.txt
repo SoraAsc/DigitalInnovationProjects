@@ -1,0 +1,16 @@
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Arquivos de Programas\Java-workspace\DigitalInnovation\C#\Cadastro de Séries\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
